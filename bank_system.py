@@ -43,9 +43,10 @@ def save_register():
             inicial_balance = 0
             new_user.write(f'{name}\n{age}\n{gender}\n{email}\n{password}\n{inicial_balance}')
             new_user.close()
+            register_window.destroy()
 
 def register():
-    global t_name, t_age, t_gender, t_password, t_email
+    global t_name, t_age, t_gender, t_password, t_email, register_window
     t_name, t_age, t_gender, t_password,t_email = StringVar(), StringVar(), StringVar(), StringVar(),StringVar()
 
     register_window = Toplevel(root)
