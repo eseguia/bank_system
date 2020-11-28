@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "bank_system", "bank_system\bank_system.pyproj", "{80CB9748-A9BF-4F45-905E-DEF6E11905DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80CB9748-A9BF-4F45-905E-DEF6E11905DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CB9748-A9BF-4F45-905E-DEF6E11905DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B2B0524-9C7D-41E9-80D3-D092DE384BC5}
+	EndGlobalSection
+EndGlobal
