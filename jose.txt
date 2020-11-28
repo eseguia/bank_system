@@ -1,6 +1,0 @@
-jose
-13
-male
-jose@gmail.com
-1234
-0
